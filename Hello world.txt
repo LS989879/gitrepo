@@ -1,3 +1,4 @@
 print(Hello world!)
 print(Hello everybody!)
-ptint(Hello my dear friend)
+print(Hello my dear friend)
+print(Gladd to see you)
